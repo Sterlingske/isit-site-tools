@@ -5,8 +5,8 @@
 describe('Test Not Used Suite', function() {
     'use strict';
 
-    const elfConfig = require('isit-code-calvert').elfConfig;
-    const elfLog = require('isit-code-calvert').elfLog('test-not-used');
+    const elfConfig = require('isit-code-sespinoza').elfConfig;
+    const elfLog = require('isit-code-sespinoza').elfLog('test-not-used');
     const configurationSettings = require('../image-help/index').configSettings;
     const configureTests = require('./configure-tests');
     const imagesUsed = require('../image-help/index').imagesUsed;
