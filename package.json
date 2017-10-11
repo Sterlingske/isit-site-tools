@@ -1,5 +1,5 @@
 {
-    "name": "isit-site-tools",
+    "name": "isit-site-tools-sespinozax",
     "version": "1.0.1",
     "description": "Isit tooling for building web sites",
     "main": "index.js",
@@ -24,6 +24,7 @@
     "license": "MIT",
     "dependencies": {
         "highlight.js": "^9.12.0",
+        "isit-code-sespinoza": "^1.0.0",
         "jsonschema": "^1.2.0",
         "marked": "^0.3.6",
         "mkdirp": "^0.5.1",
