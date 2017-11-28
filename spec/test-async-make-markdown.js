@@ -6,8 +6,8 @@ describe('Test Async Make Markdown Suite', function() {
     'use strict';
 
     const expected = [
-        '/home/charlie/ElvenImages/california1.md',
-        '/home/charlie/ElvenImages/california2.md'
+        '/home/bcuser/ElvenImages/california1.md',
+        '/home/bcuser /ElvenImages/california2.md'
     ];
 
     const customMatchers = require('./custom-matchers');
